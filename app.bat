@@ -1,12 +1,19 @@
 @echo off
-title JaviLauncher 1.0
+title JaviLauncher 1.1
 cls
 :menu
+echo ------- JAVILAUNCHER -------
+echo.
 echo Menu:
 echo 1. Escritorio
 echo 2. Anti-Crasher
 echo 3. Explorer++
 echo 4. Salir
+echo.
+echo =====================================================
+echo  JaviLauncher es un simple launcher para geforce now
+echo =====================================================
+echo.
 set /p choice=Elige una opcion: 
 if "%choice%"=="1" goto option1
 if "%choice%"=="2" goto option2

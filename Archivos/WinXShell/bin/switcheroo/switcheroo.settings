@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<settings>
+  <localSettings>
+    <basegameseat-gr>
+      <setting name="WindowsKey">False</setting>
+      <setting name="RunAsAdmin">False</setting>
+      <setting name="FirstRun">False</setting>
+      <setting name="EnableHotKey">True</setting>
+      <setting name="Ctrl">False</setting>
+      <setting name="HotKey">32</setting>
+      <setting name="AltTabHook">False</setting>
+      <setting name="AutoSwitch">False</setting>
+      <setting name="Alt">True</setting>
+      <setting name="Shift">False</setting>
+    </basegameseat-gr>
+  </localSettings>
+</settings>

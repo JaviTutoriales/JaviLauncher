@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<settings>
+  <localSettings>
+    <ts-eac4295>
+      <setting name="WindowsKey">False</setting>
+      <setting name="RunAsAdmin">False</setting>
+      <setting name="FirstRun">False</setting>
+      <setting name="EnableHotKey">True</setting>
+      <setting name="Ctrl">False</setting>
+      <setting name="HotKey">32</setting>
+      <setting name="AltTabHook">False</setting>
+      <setting name="AutoSwitch">False</setting>
+      <setting name="Alt">True</setting>
+      <setting name="Shift">False</setting>
+    </ts-eac4295>
+    <desktop-s95jcbs>
+      <setting name="WindowsKey">False</setting>
+      <setting name="RunAsAdmin">False</setting>
+      <setting name="FirstRun">False</setting>
+      <setting name="EnableHotKey">True</setting>
+      <setting name="Ctrl">False</setting>
+      <setting name="HotKey">32</setting>
+      <setting name="AltTabHook">False</setting>
+      <setting name="AutoSwitch">False</setting>
+      <setting name="Alt">True</setting>
+      <setting name="Shift">False</setting>
+    </desktop-s95jcbs>
+    <geforce-now>
+      <setting name="WindowsKey">False</setting>
+      <setting name="RunAsAdmin">False</setting>
+      <setting name="FirstRun">False</setting>
+      <setting name="EnableHotKey">True</setting>
+      <setting name="Ctrl">False</setting>
+      <setting name="HotKey">32</setting>
+      <setting name="AltTabHook">False</setting>
+      <setting name="AutoSwitch">False</setting>
+      <setting name="Alt">True</setting>
+      <setting name="Shift">False</setting>
+    </geforce-now>
+    <desktop-0pabnl3>
+      <setting name="WindowsKey">False</setting>
+      <setting name="RunAsAdmin">False</setting>
+      <setting name="FirstRun">False</setting>
+      <setting name="EnableHotKey">True</setting>
+      <setting name="Ctrl">False</setting>
+      <setting name="HotKey">32</setting>
+      <setting name="AltTabHook">False</setting>
+      <setting name="AutoSwitch">False</setting>
+      <setting name="Alt">True</setting>
+      <setting name="Shift">False</setting>
+    </desktop-0pabnl3>
+  </localSettings>
+</settings>
